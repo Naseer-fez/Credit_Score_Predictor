@@ -1,0 +1,69 @@
+
+
+
+
+Index(['CustomerID', 'FirstName', 'LastName', 'DateOfBirth', 'Age', 'Gender',
+       'Email', 'PhoneNumber', 'Address', 'City', 'State', 'ZipCode',
+       'Occupation', 'AnnualIncome', 'MonthlyIncome',
+       'EmploymentLength_Months', 'NumCreditAccounts',
+       'CreditHistoryLength_Months', 'TotalCreditLimit', 'TotalCreditBalance',
+       'CreditUtilizationRatio', 'NumLatePayments', 'NumMissedPayments',
+       'PaymentHistoryPct', 'NumLoans', 'TotalLoanAmount',
+       'MonthlyDebtPayment', 'DebtToIncomeRatio', 'NumHardInquiries',
+       'NumDerogatoryMarks', 'Bankruptcy', 'TaxLiens', 'ApplicationDate',
+       'LastPaymentDate', 'CreditMix', 'AccountStatus', 'InterestRate',
+       'CreditScore', 'CreditScoreCategory'],
+      dtype='object')
+$ 4
+
+1,NumLatePayments,NumMissedPayments,CreditUtilizationRatio
+PaymentHistoryPct,TotalCreditBalance,
+TotalCreditLimit,
+CreditHistoryLength_Months,
+DebtToIncomeRatio,MonthlyDebtPayment,NumHardInquiries,NumDerogatoryMarks,
+
+
+
+ 0   CustomerID                  3500 non-null   object
+ 1   FirstName                   3500 non-null   object
+ 2   LastName                    3500 non-null   object
+ 3   DateOfBirth                 3483 non-null   object
+ 4   Age                         3500 non-null   float64
+ 5   Gender                      3500 non-null   object
+ 6   Email                       3500 non-null   object
+ 7   PhoneNumber                 3500 non-null   object
+ 8   Address                     3332 non-null   object
+ 9   City                        3307 non-null   object
+ 10  State                       3345 non-null   object
+ 11  ZipCode                     3255 non-null   float64
+ 12  Occupation                  3500 non-null   object
+ 13  AnnualIncome                3500 non-null   float64
+ 14  MonthlyIncome               3500 non-null   float64
+ 15  EmploymentLength_Months     3257 non-null   float64
+ 16  NumCreditAccounts           3263 non-null   float64
+ 17  CreditHistoryLength_Months  3257 non-null   float64
+ 18  TotalCreditLimit            3289 non-null   float64
+ 19  TotalCreditBalance          3248 non-null   float64
+ 20  CreditUtilizationRatio      3252 non-null   object
+ 21  NumLatePayments             3273 non-null   float64
+ 22  NumMissedPayments           3199 non-null   float64
+ 23  PaymentHistoryPct           2903 non-null   float64
+ 24  NumLoans                    3276 non-null   float64
+ 25  TotalLoanAmount             3267 non-null   float64
+ 26  MonthlyDebtPayment          3238 non-null   float64
+ 27  DebtToIncomeRatio           3233 non-null   float64
+ 28  NumHardInquiries            3266 non-null   float64
+ 29  NumDerogatoryMarks          3208 non-null   float64
+ 30  Bankruptcy                  3300 non-null   object
+ 31  TaxLiens                    3261 non-null   object
+ 32  ApplicationDate             3285 non-null   object
+ 33  LastPaymentDate             3213 non-null   object
+ 34  CreditMix                   2818 non-null   object
+ 35  AccountStatus               3294 non-null   object
+ 36  InterestRate                3281 non-null   object
+ 37  CreditScore                 3306 non-null   float64
+ 38  CreditScoreCategory         3050 non-null   object
+ 39  MonthlyIncome_values        3500 non-null   float64
+ 40  AnnualIncome_values         3500 non-null   float64
+dtypes: float64(21), object(20)
+memory usage: 1.1+ MB
