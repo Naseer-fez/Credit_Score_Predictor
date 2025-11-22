@@ -8,3 +8,4 @@ Directories
 ├── 📜 Ml_implementation.py                     # USed Random Forest Regression for the score predictor 
 ├── 📄 credit_score_messy_dataset.csv          # THe Data which i got from the Data geenratto 
 ├── 📄 data.csv                               # Contains a Refrence data
+<img width="533" height="153" alt="image" src="https://github.com/user-attachments/assets/748c0e1d-df94-423a-a313-fd496f3ea157" />
