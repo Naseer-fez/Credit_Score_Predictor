@@ -9,3 +9,4 @@ Directories
 ├── 📄 credit_score_messy_dataset.csv          # THe Data which i got from the Data geenratto 
 ├── 📄 data.csv                               # Contains a Refrence data
 
+The main problem about this was finding the data 
